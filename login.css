@@ -1,0 +1,16 @@
+h1{
+    color:black;
+    text-align: center;
+}
+body{
+    color:black;
+    text-align: center;
+    background-image: url(img.png);
+    background-size:auto;
+    background-repeat:no-repeat ;
+    background-position: center;
+    width:95%;
+    height:55%;
+    
+    
+}
